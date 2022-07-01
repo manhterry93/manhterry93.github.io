@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/home';
+
 function App() {
   console.log("Render")
   return (
@@ -12,7 +13,6 @@ function App() {
           <Route  path='/' element={<Home/>} exact/>
         </Routes>
       </Router>
-
     </div>
   );
 }

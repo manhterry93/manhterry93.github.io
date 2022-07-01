@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import NavMenu from '../NavMenu/NavMenu';
 class Header extends Component {
     render() {
         return (
@@ -16,6 +16,7 @@ class Header extends Component {
                     </nav>
 
                 </header>
+                
         );
     }
 }
