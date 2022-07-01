@@ -7,7 +7,7 @@ function App() {
   console.log("Render")
   return (
     <div className="wrapper">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route  path='/' element={<Home/>} exact/>
         </Routes>
