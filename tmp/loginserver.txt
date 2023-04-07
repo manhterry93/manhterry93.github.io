@@ -1,6 +1,5 @@
 VERSION 1
+
 SERVER_BEGIN
-
-Thien Long Bat Bo,xunu,1,201,3,1,0,xunu,194.233.95.66:7384,,,
-
-SERVER_END 
+TLBB Thiên C±,Khai Nguyên,1,148,3,1,0,Cøm máy chü Máy Chü Thiên Long Bát Bµ,194.233.95.66:7384,194.233.95.66:6222,,,
+SERVER_END
