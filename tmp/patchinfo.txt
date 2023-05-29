@@ -1,8 +1,8 @@
 [Version]
-Latest=1.0.1.10
-NewLaunch=1.0.1.10
+Latest=1.00.0060
+NewLaunch=1.00.0060
 
 [Patch_0]
 VersionFrom=1.00.0050
-VersionTo=1.0.1.10
+VersionTo=1.00.0060
 URL_1=https://manhterry93.github.io/tmp/TLBB_Update49-50.zip
