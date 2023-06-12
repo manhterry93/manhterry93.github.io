@@ -1,5 +1,5 @@
 VERSION 1
 
 SERVER_BEGIN
-TLBB THIENCO,Khai Nguyen,1,148,3,1,0,Cøm máy chü Máy Chü Thiên Long Bát Bµ,14.162.146.239:10203,14.162.146.239:6222,,,
+TLBB THIENCO,Khai Nguyen,1,148,3,1,0,CÃ¸m mÃ¡y chÃ¼ MÃ¡y ChÃ¼ ThiÃªn Long BÃ¡t BÂµ,194.162.145.239:8001,194.162.145.239:6222,,,
 SERVER_END
